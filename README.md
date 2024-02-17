@@ -1,5 +1,4 @@
-ECOLOS-Website
-https://roveqa.github.io/ECOLOS-Website/
+ECOLOS-Website — https://roveqa.github.io/ECOLOS-Website/
 
 
 (ENG)
